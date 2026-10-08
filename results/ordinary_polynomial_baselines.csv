@@ -1,0 +1,3 @@
+dataset,method,degree,alpha,cv_mse,cv_r2
+var1,Polynomial + Linear,4,,0.7138394094966383,0.923674018572075
+var2,Polynomial + Linear,9,,0.30167528094615687,0.9933364889172391
